@@ -19,7 +19,7 @@ Therefore, there is a need for a decentralized platform that allows patients to 
 #### Methodology:
 
 The platform is built on top of the Ethereum blockchain, which allows for the creation of decentralized applications using smart contracts. Smart contracts are self-executing agreements that are programmed to execute automatically when certain conditions are met. In the case of MedBlock, the smart contracts are used to manage access to medical records and ensure that only authorized parties can view and update them. This ensures that the records are available to authorized parties at all times and can be accessed from anywhere in the world.
-The app is deployed on the google cloud platform : [link](https://github.com/asdfqwert2311)
+The app is deployed on the google cloud platform : [link](https://chatdapps.as.r.appspot.com/)
 #### Tech Stack
 - Blockchain: 
 
