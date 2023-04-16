@@ -5,9 +5,10 @@ CareChains is a blockchain-based electronic health record (EHR) management syste
  
 
 #### Team Members :
-- [Tushar Singh](https://github.com/apoorwagupta)
-- [Apoorwa Gupta](https://github.com/tusharsgh)
-- [Aaditya Kumar](https://github.com/Aniruddha-Shriwant)
+
+- [Tushar Singh](https://github.com/tusharsgh)
+- [Apoorwa Gupta](https://github.com/apoorwagupta)
+- [Aaditya Kumar](https://github.com/asdfqwert2311)
 
 #### Tech Stack
 - Blockchain: 
