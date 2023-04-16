@@ -1,5 +1,5 @@
 
-# CareChains
+# CareChains 
 <h3> Store your medical records securely on blockchain </h3>
 CareChains is a blockchain-based electronic health record (EHR) management system that allows patients  to manage and share their medical records securely and efficiently with healthcare providers. 
  
@@ -9,6 +9,12 @@ CareChains is a blockchain-based electronic health record (EHR) management syste
 - [Tushar Singh](https://github.com/tusharsgh)
 - [Apoorwa Gupta](https://github.com/apoorwagupta)
 - [Aaditya Kumar](https://github.com/asdfqwert2311)
+
+#### Problem Statement:
+
+Traditional medical record keeping systems are centralized and often fragmented across different healthcare providers, making it challenging for patients to access and share their medical history. This lack of accessibility can lead to delays in treatment, duplicate testing, and medical errors. Additionally, centralized systems are vulnerable to cyber-attacks and data breaches, compromising patient privacy and the security of their sensitive medical information.
+
+Therefore, there is a need for a decentralized platform that allows patients to store and manage their medical history securely, while providing healthcare providers with easy access to accurate and up-to-date information. This platform should be designed with privacy and security in mind and should be easily accessible from any device or location. It should also allow for seamless sharing of medical information between healthcare providers, improving coordination and collaboration among the different stakeholders involved in patient care.
 
 #### Tech Stack
 - Blockchain: 
