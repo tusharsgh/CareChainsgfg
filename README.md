@@ -16,6 +16,10 @@ Traditional medical record keeping systems are centralized and often fragmented 
 
 Therefore, there is a need for a decentralized platform that allows patients to store and manage their medical history securely, while providing healthcare providers with easy access to accurate and up-to-date information. This platform should be designed with privacy and security in mind and should be easily accessible from any device or location. It should also allow for seamless sharing of medical information between healthcare providers, improving coordination and collaboration among the different stakeholders involved in patient care.
 
+#### Methodology:
+
+The platform is built on top of the Ethereum blockchain, which allows for the creation of decentralized applications using smart contracts. Smart contracts are self-executing agreements that are programmed to execute automatically when certain conditions are met. In the case of MedBlock, the smart contracts are used to manage access to medical records and ensure that only authorized parties can view and update them. This ensures that the records are available to authorized parties at all times and can be accessed from anywhere in the world.
+The app is deployed on the google cloud platform : [link](https://github.com/asdfqwert2311)
 #### Tech Stack
 - Blockchain: 
 
@@ -35,10 +39,7 @@ Therefore, there is a need for a decentralized platform that allows patients to 
 #### Description of the webpages and their functions in the CareChains application
 - Home Page
 The home page is the landing page of the web application. It provides an overview of the application and its key features, as well as a call-to-action button to log in and about pages. It features 3 types of login options: Hospital Login, Patient Login , and Admin Login. It also involves options to view any available records.
-
-- About Page 
-
-This  page explains the purpose of the application and the value it provides to patients and healthcare providers, emphasizes the application's commitment to using blockchain technology to secure and manage medical records, provides a summary of the key functionalities of the application and provides a brief overview of the technology stack used to develope it.
+This  page also explains the purpose of the application and the value it provides to patients and healthcare providers, emphasizes the application's commitment to using blockchain technology to secure and manage medical records, provides a summary of the key functionalities of the application and provides a brief overview of the technology stack used to develope it.
 
 - Log In Page
 
