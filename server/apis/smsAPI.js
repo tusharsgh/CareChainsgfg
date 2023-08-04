@@ -24,7 +24,7 @@ exports.sendOTP = async (phone) => {
     }
     var options = {
         authorization: process.env.FAST_TWO_SMS_KEY,
-        message: `${otp} is your OTP -MedBlock`,
+        message: `${otp} is your OTP -Carechains`,
         numbers: [phone]
     }
     try {
