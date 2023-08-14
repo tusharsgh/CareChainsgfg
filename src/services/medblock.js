@@ -5,7 +5,7 @@ import {
     contractDeploymentTxLink
 } from '../contracts/deploymentDetails'
 
-const MedBlockContract = new web3.eth.Contract(medblockABI, medblockAddress);
+const MedBlockContract = new web3.eth.Contract(medblockABI, medblockAddress);    //creating an instance of smart contract to interact with it
 
 console.log("MedBlock contract address: ", medblockAddress);
 console.log("MedBlock contract deployment: ", contractDeploymentTxLink);
